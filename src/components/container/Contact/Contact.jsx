@@ -5,6 +5,7 @@ import { socialIcons } from '../../../Data';
 import { motion } from 'framer-motion';
 import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
+import {   FaInstagram, FaLinkedin, FaGithub } from "react-icons/fa";
 
 const Contact = () => {
   const form = useRef();
@@ -47,13 +48,21 @@ const Contact = () => {
             )
           })}
           <div className="social_icons">
-            {socialIcons.map((socialIcon, index) => {
-            return (
-              <div key={index} >
-                {socialIcon}
-              </div>
-            )
-          })}
+          <div>
+                  <a href='https://github.com/anniedavid13'>
+                  <FaGithub />
+                  </a>
+                </div>
+                <div>
+                  <a href='https://www.instagram.com/unlikeannaaa/'>
+                  <FaInstagram />
+                  </a>
+                </div>
+                <div>
+                  <a href='https://www.linkedin.com/in/annie-david-b36431215/'>
+                  <FaLinkedin />
+                  </a>
+                </div>
           </div>
         </motion.div>
         <motion.div

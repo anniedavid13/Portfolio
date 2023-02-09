@@ -13,6 +13,8 @@ import web3 from "./assets/web3.png";
 import web4 from "./assets/web4.png";
 import web5 from "./assets/web5.png";
 import web6 from "./assets/web6.png";
+import { IconName } from "react-icons/di";
+
 
 export const navLinks = ["home", "about", "skills", "portfolio", "contact"]
 
