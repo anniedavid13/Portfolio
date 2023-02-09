@@ -35,7 +35,7 @@ const About = () => {
           transition={{ duration: 1 }}
         >
 
-          <p>About
+          <p>About <br />
             A human machine converting coffee into productivity. <br />
             Full-Stack and App developer.<br />
             For me developing is a place for zen, whenever I'm stressed or feel stuck in general, I develop something to help me with that situation.</p>
