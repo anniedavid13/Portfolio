@@ -27,7 +27,7 @@ This is my personal portfolio, built with React and designed to showcase my proj
 
 4. Start the development server:
 
-###npm start
+### npm start
 
 5. Open your web browser and navigate to http://localhost:3000 to view the portfolio.
 
