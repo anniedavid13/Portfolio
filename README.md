@@ -9,7 +9,7 @@ This is my personal portfolio, built with React and designed to showcase my proj
 - Clean and modern user interface
 - Option to view the source code of each project
 
-##Getting Started
+## Getting Started
 
 1. Clone the repository to your local machine:
 
@@ -33,22 +33,22 @@ This is my personal portfolio, built with React and designed to showcase my proj
 
 
 
-##Built With
+## Built With
 React - JavaScript library for building user interfaces
 Bootstrap - Front-end component library for styling
 Font Awesome - Icon library for added visual appeal
 
-##License
+## License
 This project is licensed under the MIT License.
 
 
-##Contact
+## Contact
 Feel free to contact me for any questions or collaboration opportunities:
 
 Email: anniedavid407@gmail.com
 LinkedIn: https://www.linkedin.com/in/annie-david-b36431215/
 
 
-##Thank you for visiting my portfolio!
+## Thank you for visiting my portfolio!
 
 
