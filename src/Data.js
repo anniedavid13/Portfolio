@@ -1,4 +1,4 @@
-import { FaHtml5, FaCss3, FaNodeJs, FaReact, FaSass, FaFigma, FaPhoneAlt, FaUser, FaMapMarkerAlt, FaPaperPlane, FaDribbble, FaInstagram, FaLinkedin, FaGithub, FaMobile } from "react-icons/fa";
+import { FaHtml5, FaCss3, FaNodeJs, FaReact, FaSass, FaPhp, FaFigma, FaPhoneAlt, FaUser, FaMapMarkerAlt, FaPaperPlane, FaDribbble, FaInstagram, FaLinkedin, FaGithub, FaMobile } from "react-icons/fa";
 import { DiJavascript } from "react-icons/di";
 import { SiTypescript } from "react-icons/si";
 import { BsMedium } from "react-icons/bs";
@@ -45,7 +45,7 @@ export const bios = [
   }
 ]
 
-export const icons = [<FaHtml5 />, <FaCss3 />, <DiJavascript />, <SiTypescript />, <FaReact />, <FaNodeJs />, <FaSass />, <FaFigma /> , <FaMobile />]
+export const icons = [<FaHtml5 />, <FaCss3 />, <DiJavascript />, <FaPhp>, <SiTypescript />, <FaReact />, <FaNodeJs />, <FaSass />, <FaFigma /> , <FaMobile />]
 
 export const experiences = [
   {
